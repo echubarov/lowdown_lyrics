@@ -1,90 +1,14 @@
-# Смысл названия? Как минимум я сам не знаю пока, и мне интересно.
-M. Night
+I know you and we're happy in an ocean
+You know you leave me floating in happy emotions 
+Diving deep in the slime of the jellyfish ribbons
+Heating lies in disguise, all the passion I snivel
 
-I know you and we're happy in ocean
+Oh, tell me why?
+We're buried when we die
+Never thought to say goodbye
+And now that I try...
 
-# Не смог найти применение для "write emotion".
-# Имеется в виду что-то типа "ты оставляешь приятные эмоции"?
-# Как вариант, можно "leave emotions"
-# Или "set my mind on happy emotions", "fill my mind with happy emotions"
-You know you leave in my mind happy emotions
-
-# Касательно последних двух строк этого куплета:
-#
-# 1. Они про "chemic time in the sea of suppuration" или
-#    "*Я* will always be in the sea of...", а потом отдельно
-#    что-то про "chemic time"?
-# 2. Chemic time - что ты имеешь в виду?
-#    Возможно, есть еще варианты как это сказать немного более понятно.
-# 3. Lie for passion - это "ложь в контексте страсти"?
-#    Тогда "lies for passion".
-#
-# В итоге ветвление идет по пункту 1.
-
-# Если первый вариант, что chemic time является объектом в sea,
-# то тогда что-то типа:
-#   And it'll always be in the sea suppuration
-#   And it's always there in the sea suppuration
-#
-# Если второй, когда это "ты" in the sea, то:
-#   And I'll always be in the sea suppuration
-# Оставить как есть можно было бы, если бы ты до этого уже была
-# действующим лицом, но до этого это был "you leaving emotions"
-#
-# Внезапно понял, что в sea может быть как раз тот чел, который leaves emotions
-# Тогда третий вариант:
-#   And you'll always be in the sea suppuration
-#   And you're always there in the sea suppuration
-And always be in the sea suppuration
-My chemic time in my lie for passion
-
-# Первая и вторая строка не согласуются.
-# Скажи по-русски, что ты имела в виду.
-# Пока что получается:
-#   О, вот почему
-#   И что-то, когда я умру
-Ohh that is why
-And something when I die 
-
-# Тут что-то типа "распрощаться невозможно" по контексту?
-# Варианты:
-#   There's no way to say goodbye
-#   No way now to say goodbye
-#   We can never say goodbye
-#   I can never say goodbye
-#   You can never say goodbye
-Nothing will to say goodbye
-# Если правильно понимаю, то последние две строки - это:
-# "Распрощаться невозможно"
-# "И я даже пробовать не буду"
-# Если так, то варианты для последней строки с учетом исправлений в предыдущей:
-#   And I will not try
-#   And I dare not try
-# And можно заметить на So
-# Вместо not можно never
-# Порядок слов немного менять можно:
-#   And never dare I try 
-But I know the not try
-
-# Еще один привев. Структура напутана? :)
-Ohh that is why
-And something when I die 
-Nothing will to say goodbye
-But I know the not try, I try
-
-# Что такое "seating floor"?
-# Или тут что-то типа "закрой дверь, сядь на пол и не оглядывайся"?
-# Если так, то:
-#  Close that door, sit on floor and don’t look back
-# Иначе нужно больше контекста
-Close that door seating floor and don’t look back
-
-All your dreams aren't free, that's a fact
-
-# from your quiet <my_quiet_what?>
-# Короче, что тут должно быть по смыслу? Пока не понял.
-Pain inside this is right from your quiet
-
-# Сейчас тут написано "беги от деревьев, которые увидишь на пути"
-# Если "беги сквозь деревья", то "through trees" или "in trees"
-Run from trees you will see on your track
+Close the door, sit on floor and don't look back
+All your dreams aren't free , that's a fact
+You're so quiet, pain inside eats my brain
+Run from trees that you see on your way
